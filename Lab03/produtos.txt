@@ -1,0 +1,10 @@
+Notebook X300;3999.90;TechBrand
+Mouse Óptico;79.90;ClickCo
+Teclado Mecânico;249.50;KeyMaster
+Monitor 24;899.00;Vision
+Headset Gamer;199.00;SoundMax
+Cadeira Escritório;799.99;Comfort
+Smartphone Z;2499.00;Mobix
+Carregador Rápido;129.90;PowerUp
+Impressora Laser;1599.00;PrintMax
+HD Externo 1TB;349.99;DataBox
